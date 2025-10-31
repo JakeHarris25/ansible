@@ -1,2 +1,2 @@
-192.168.75.130 ansible_user=ubu01
-192.168.75.132 ansible_user=ubu02
+192.168.75.130 ansible_user=ubu01 ansible_python_interpreter=/usr/bin/python3
+192.168.75.132 ansible_user=ubu02 ansible_python_interpreter=/usr/bin/python3
